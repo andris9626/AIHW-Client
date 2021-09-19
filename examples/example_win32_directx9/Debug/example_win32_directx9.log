@@ -1,0 +1,25 @@
+﻿C:\Program Files (x86)\Visual Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (D:\AIMotiveHW\client\examples\example_win32_directx9\Debug\) contains files shared from another project (example_win32_directx9.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  Client.cpp
+D:\AIMotiveHW\client\examples\example_win32_directx9\Client.cpp(170,22): warning C4244: 'initializing': conversion from 'int16_t' to 'uint8_t', possible loss of data
+D:\AIMotiveHW\client\examples\example_win32_directx9\Client.cpp(172,20): warning C4244: 'initializing': conversion from 'int16_t' to 'uint8_t', possible loss of data
+  main.cpp
+D:\AIMotiveHW\client\examples\example_win32_directx9\main.cpp(119,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\AIMotiveHW\client\examples\example_win32_directx9\main.cpp(120,13): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\AIMotiveHW\client\examples\example_win32_directx9\main.cpp(121,13): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\AIMotiveHW\client\examples\example_win32_directx9\main.cpp(122,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\AIMotiveHW\client\examples\example_win32_directx9\main.cpp(123,13): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\AIMotiveHW\client\examples\example_win32_directx9\main.cpp(124,13): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\AIMotiveHW\client\examples\example_win32_directx9\main.cpp(125,13): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\AIMotiveHW\client\examples\example_win32_directx9\main.cpp(147,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\AIMotiveHW\client\examples\example_win32_directx9\main.cpp(149,43): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\AIMotiveHW\client\examples\example_win32_directx9\main.cpp(78,10): warning C4189: 'show_demo_window': local variable is initialized but not referenced
+D:\AIMotiveHW\client\examples\example_win32_directx9\main.cpp(79,10): warning C4189: 'show_another_window': local variable is initialized but not referenced
+  Generating Code...
+  example_win32_directx9.vcxproj -> D:\AIMotiveHW\client\examples\example_win32_directx9\Debug\client.exe
